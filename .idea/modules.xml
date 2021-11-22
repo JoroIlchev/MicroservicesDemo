@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Cloud-Microservices.iml" filepath="$PROJECT_DIR$/.idea/Spring-Cloud-Microservices.iml" />
-      <module fileurl="file://$PROJECT_DIR$/License Service/licensing-service.iml" filepath="$PROJECT_DIR$/License Service/licensing-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/licensing-service/licensing-service.iml" filepath="$PROJECT_DIR$/licensing-service/licensing-service.iml" />
     </modules>
   </component>
 </project>
